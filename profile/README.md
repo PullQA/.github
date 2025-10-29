@@ -12,4 +12,4 @@ Ship better code faster with automated pattern detection, structural analysis, a
 
 Learn more and join the waitlist: [pullqa.dev](https://www.pullqa.dev/)
 
-Explore our repositories to get started — issues and PRs are welcome.
+*Coming soon...*
